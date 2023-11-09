@@ -1,0 +1,3 @@
+To run the code, activate the singularity on any machine of Serre's lab with the following code...
+
+singularity shell --nv --bind /media/data_cifs /media/data_cifs/projects/prj_shared/singularity/pytorch_2110_tk_new
